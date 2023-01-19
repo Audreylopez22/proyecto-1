@@ -9,5 +9,7 @@ en este curso se llevo a cabo el siguiente contenido:
 - etiquetas y tags para mejorar las metodologias de trabajo
 - Como fusionar las ramas de trabajo con colaboradores.
   -cambio de ejemplo
+  - ejemplo de un segundo cambio
+  - disponible para todas las edades
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
